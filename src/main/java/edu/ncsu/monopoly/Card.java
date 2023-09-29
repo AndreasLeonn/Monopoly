@@ -1,7 +1,7 @@
 package edu.ncsu.monopoly;
 //updated 20222 with a commentddfhh
 public abstract class Card {
-//epa haber si aparece
+//epa haber si aparecee
     public static final int TYPE_CHANCE = 1;
     public static final int TYPE_CC = 2;
 
